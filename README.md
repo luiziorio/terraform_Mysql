@@ -1,1 +1,4 @@
-# terraform_Mysql
+# terraform_MySql
+
+Provider: Azure
+VM - Ubunto + MySql
